@@ -6,7 +6,7 @@
   <link href="https://dearjasker.github.io/atom.xml" rel="self"/>
   
   <link href="https://dearjasker.github.io/"/>
-  <updated>2022-02-15T07:30:06.687Z</updated>
+  <updated>2022-03-18T12:34:35.179Z</updated>
   <id>https://dearjasker.github.io/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>BBC 新闻翻译练习</title>
+    <link href="https://dearjasker.github.io/220318A/"/>
+    <id>https://dearjasker.github.io/220318A/</id>
+    <published>2022-03-18T12:25:53.000Z</published>
+    <updated>2022-03-18T12:34:35.179Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;注1：本文通常为 BBC</summary>
+        
+      
+    
+    
+    
+    <category term="练习" scheme="https://dearjasker.github.io/categories/%E7%BB%83%E4%B9%A0/"/>
+    
+    
+    <category term="Translate" scheme="https://dearjasker.github.io/tags/Translate/"/>
+    
+    <category term="BBC" scheme="https://dearjasker.github.io/tags/BBC/"/>
+    
+  </entry>
+  
+  <entry>
     <title>我用的电脑系统和 Win11 更新日志翻译</title>
     <link href="https://dearjasker.github.io/220215A/"/>
     <id>https://dearjasker.github.io/220215A/</id>
     <published>2022-02-15T06:22:07.000Z</published>
-    <updated>2022-02-15T07:30:06.687Z</updated>
+    <updated>2022-03-18T12:24:36.067Z</updated>
     
     
       
@@ -50,7 +77,7 @@
     <link href="https://dearjasker.github.io/220214A/"/>
     <id>https://dearjasker.github.io/220214A/</id>
     <published>2022-02-14T05:51:06.000Z</published>
-    <updated>2022-02-15T06:29:26.079Z</updated>
+    <updated>2022-03-18T12:24:24.269Z</updated>
     
     
       

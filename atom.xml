@@ -6,7 +6,7 @@
   <link href="https://dearjasker.github.io/atom.xml" rel="self"/>
   
   <link href="https://dearjasker.github.io/"/>
-  <updated>2022-03-18T12:34:35.179Z</updated>
+  <updated>2022-04-04T01:38:38.966Z</updated>
   <id>https://dearjasker.github.io/</id>
   
   <author>
@@ -17,24 +17,25 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>BBC 新闻翻译练习</title>
+    <title>BBC 新聞翻譯練習</title>
     <link href="https://dearjasker.github.io/220318A/"/>
     <id>https://dearjasker.github.io/220318A/</id>
     <published>2022-03-18T12:25:53.000Z</published>
-    <updated>2022-03-18T12:34:35.179Z</updated>
+    <updated>2022-04-04T01:38:38.966Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;&lt;strong&gt;注1：本文通常为 BBC</summary>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;注1：本文通常為 BBC 相關報導的翻譯&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;**注2：本文根據中華人民共和國相關法律對相關網站數據進行合法內容的引用，如其他國家法律與中華人民共和國法律有衝突，請以中華人民共和國法律為準。</summary>
         
       
     
     
     
-    <category term="练习" scheme="https://dearjasker.github.io/categories/%E7%BB%83%E4%B9%A0/"/>
+    <category term="練習" scheme="https://dearjasker.github.io/categories/%E7%B7%B4%E7%BF%92/"/>
     
     
     <category term="Translate" scheme="https://dearjasker.github.io/tags/Translate/"/>
@@ -44,24 +45,25 @@
   </entry>
   
   <entry>
-    <title>我用的电脑系统和 Win11 更新日志翻译</title>
+    <title>我用的電腦系統和 Win11 更新日誌翻譯</title>
     <link href="https://dearjasker.github.io/220215A/"/>
     <id>https://dearjasker.github.io/220215A/</id>
     <published>2022-02-15T06:22:07.000Z</published>
-    <updated>2022-03-18T12:24:36.067Z</updated>
+    <updated>2022-04-04T01:38:05.744Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;&lt;strong&gt;注1：本文通常为对于 Win11 Dev 通道的&lt;a</summary>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;注1：本文通常為對於 Win11 Dev 通道的&lt;a href=&quot;https://aka.ms/DevLatest&quot;&gt;官方更新日誌&lt;/a&gt;的翻譯，但不會對具體使用指南進行翻譯&lt;del&gt;（懶）&lt;/del&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;**注2：本文為</summary>
         
       
     
     
     
-    <category term="技术" scheme="https://dearjasker.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    <category term="技術" scheme="https://dearjasker.github.io/categories/%E6%8A%80%E8%A1%93/"/>
     
     
     <category term="Internet" scheme="https://dearjasker.github.io/tags/Internet/"/>
@@ -73,19 +75,19 @@
   </entry>
   
   <entry>
-    <title>Wizolympics 神奇的巫师奥林匹克运动会</title>
+    <title>Wizolympics 神奇的巫師奧林匹克運動會</title>
     <link href="https://dearjasker.github.io/220214A/"/>
     <id>https://dearjasker.github.io/220214A/</id>
     <published>2022-02-14T05:51:06.000Z</published>
-    <updated>2022-03-18T12:24:24.269Z</updated>
+    <updated>2022-04-04T01:37:30.179Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;&lt;strong&gt;注1：“Wizolympics”并非 Wizarding World 官网及 JK · Rowling 的官方创作而是 MuggleNet 的二次创作。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;注2：本文为 MuggleNet</summary>
+    <summary type="html">&lt;p&gt;**注1：“Wizolympics”並非 Wizarding World 官網及 JK · Rowling 的官方創作而是 MuggleNet 的二次創作。 **&lt;/p&gt;
+&lt;p&gt;**注2：本文為 MuggleNet</summary>
         
       
     
@@ -101,19 +103,19 @@
   </entry>
   
   <entry>
-    <title>我的浏览器收藏夹的好东西</title>
+    <title>我的瀏覽器收藏夾的好東西</title>
     <link href="https://dearjasker.github.io/220211B/"/>
     <id>https://dearjasker.github.io/220211B/</id>
     <published>2022-02-11T04:02:02.000Z</published>
-    <updated>2022-02-11T04:51:06.327Z</updated>
+    <updated>2022-04-04T01:36:45.947Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;今天来聊一聊我浏览器收藏夹的好东西吧，其实万一我哪天数据丢了也可以靠这个恢复哈哈哈&lt;/p&gt;
-&lt;p&gt;你们有什么好用的快在评论区告诉我&lt;/p&gt;
+    <summary type="html">&lt;p&gt;今天來聊一聊我瀏覽器收藏夾的好東西吧，其實萬一我哪天數據丟了也可以靠這個恢復哈哈哈&lt;/p&gt;
+&lt;p&gt;你們有什麼好用的快在評論區告訴我&lt;/p&gt;
 &lt;p&gt;   &lt;a href=&quot;https://423down.lanzoui.com/b010ttokj&quot;&gt;1. NtrQQ</summary>
         
       
@@ -130,21 +132,21 @@
   </entry>
   
   <entry>
-    <title>我所使用的软件分享</title>
+    <title>我所使用的軟件分享</title>
     <link href="https://dearjasker.github.io/220211A/"/>
     <id>https://dearjasker.github.io/220211A/</id>
     <published>2022-02-11T03:50:02.000Z</published>
-    <updated>2022-02-11T05:11:04.606Z</updated>
+    <updated>2022-04-04T01:35:52.352Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;&lt;strong&gt;本文内部分软件在中国无法使用，故不提供链接，请中国公民不要使用！&lt;/strong&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;**本文內部分軟件在中國無法使用，故不提供鏈接，請中國公民不要使用！ **&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;#&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;7-zip &lt;a</summary>
+&lt;li&gt;7-zip &lt;a href=&quot;http://www.7-zip.org/&quot;&gt;www.7-zip.org&lt;/a&gt;</summary>
         
       
     
@@ -164,22 +166,22 @@
     <link href="https://dearjasker.github.io/220209A/"/>
     <id>https://dearjasker.github.io/220209A/</id>
     <published>2022-02-09T12:46:25.000Z</published>
-    <updated>2022-02-15T07:29:15.892Z</updated>
+    <updated>2022-04-04T01:34:00.415Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;大家好！是我是我，我回来啦！&lt;/p&gt;
-&lt;p&gt;其实也没什么可说的。&lt;/p&gt;
-&lt;p&gt;我觉得有个博客来说话挺好的，不过现在不准备完全聊技术了，还是说说各种有趣的东西吧，还有我喜欢的《哈利 ·</summary>
+    <summary type="html">&lt;p&gt;大家好！是我是我，我回來啦！&lt;/p&gt;
+&lt;p&gt;其實也沒什麼可說的。&lt;/p&gt;
+&lt;p&gt;我覺得有個博客來說話挺好的，不過現在不准備完全聊技術了，還是說說各種有趣的東西吧，還有我喜歡的《哈利 ·</summary>
         
       
     
     
     
-    <category term="闲聊" scheme="https://dearjasker.github.io/categories/%E9%97%B2%E8%81%8A/"/>
+    <category term="閒聊" scheme="https://dearjasker.github.io/categories/%E9%96%92%E8%81%8A/"/>
     
     
     <category term="Other" scheme="https://dearjasker.github.io/tags/Other/"/>
